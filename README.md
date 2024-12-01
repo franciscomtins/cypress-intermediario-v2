@@ -2,7 +2,7 @@
 
 👋 Seja bem-vinda(o)!
 
-É muito bom tê-la(o) aqui. Tenho certeza que você vai adorar este curso. ❤️
+Projeto simples para revisão de contéudo Cypress. Instrutor Walmyr - TAT, curso Cypress Intermediário.
 
 ## O que você vai aprender
 
@@ -28,7 +28,3 @@ Durante o curso de testes automatizados com Cypress (intermediário) você vai a
 ## Vamos começar?
 
 Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
-
-___
-
-Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
