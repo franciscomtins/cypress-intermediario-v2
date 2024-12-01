@@ -2,7 +2,7 @@
 
 👋 Seja bem-vinda(o)!
 
-Projeto simples para revisão de contéudo Cypress. Instrutor Walmyr - TAT, curso Cypress Intermediário.
+> Projeto simples para revisão de contéudo Cypress Intermediário. Instrutor [Walmyr](https://walmyr.dev) - TAT. 
 
 ## O que você vai aprender
 
