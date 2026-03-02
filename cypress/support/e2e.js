@@ -1,2 +1,5 @@
-import './gui_commands.js'
+import 'cypress-plugin-api'
+
+import './gui_commands'
+import './api_commands'
 
