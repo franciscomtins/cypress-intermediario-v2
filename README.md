@@ -1,15 +1,12 @@
 # Testes automatizados com Cypress - Intermediário
 
-<<<<<<< HEAD
-
 ## O que você foi exercitado:
-=======
+
 Refazendo o treinamento, agora na versão 2
 
 ## O que você vai aprender
 
 Durante o curso de testes automatizados com Cypress (intermediário), será exercitado:
->>>>>>> afffe0090c22604dd2c0b702abd44adfc0532a37
 
 - Como configurar o ambiente local de desenvolvimento
 - Como instalar e configurar o Cypress
@@ -31,7 +28,5 @@ Durante o curso de testes automatizados com Cypress (intermediário), será exer
 ## Vamos começar?
 
 Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
-
-___
 
 Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
